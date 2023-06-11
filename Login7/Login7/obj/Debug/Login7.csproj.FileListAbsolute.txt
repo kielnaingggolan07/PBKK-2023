@@ -1,0 +1,22 @@
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7.csproj.AssemblyReference.cache
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\MainWindow.g.cs
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\App.g.cs
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7_MarkupCompile.cache
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7_MarkupCompile.lref
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.csproj.AssemblyReference.cache
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.csproj.SuggestedBindingRedirects.cache
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\MainWindow.g.cs
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\App.g.cs
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7_MarkupCompile.cache
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7_MarkupCompile.lref
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\bin\Debug\Login7.exe.config
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\bin\Debug\Login7.exe
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\bin\Debug\Login7.pdb
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\MainWindow.baml
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.g.resources
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.Properties.Resources.resources
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.csproj.GenerateResource.cache
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.csproj.CoreCompileInputs.cache
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.exe
+D:\Matkul\Semes 6\PBKK-20223 - Copy\Login7\Login7\obj\Debug\Login7.pdb

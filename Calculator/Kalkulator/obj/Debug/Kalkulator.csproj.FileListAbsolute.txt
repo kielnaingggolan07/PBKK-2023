@@ -1,0 +1,4 @@
+C:\Users\HP 14\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\HP 14\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP 14\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\HP 14\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache

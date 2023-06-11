@@ -1,0 +1,54 @@
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\Dash.exe.config
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\Dash.exe
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\Dash.pdb
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\HandyControl.dll
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\LiveCharts.dll
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\HandyControl.pdb
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\HandyControl.xml
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\LiveCharts.pdb
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\LiveCharts.xml
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\gabri\Source\Repos\Dash\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.csproj.AssemblyReference.cache
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\MainWindow.g.cs
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\App.g.cs
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash_MarkupCompile.cache
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash_MarkupCompile.lref
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\App.baml
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\MainWindow.baml
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.g.resources
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.Properties.Resources.resources
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.csproj.GenerateResource.cache
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.csproj.CopyComplete
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.exe
+C:\Users\gabri\Source\Repos\Dash\obj\Debug\Dash.pdb
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\Dash.exe.config
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\Dash.exe
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\Dash.pdb
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\HandyControl.dll
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\LiveCharts.dll
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\LiveCharts.Wpf.dll
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\HandyControl.pdb
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\HandyControl.xml
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\LiveCharts.pdb
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\LiveCharts.xml
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\LiveCharts.Wpf.pdb
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\bin\Debug\LiveCharts.Wpf.xml
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.csproj.AssemblyReference.cache
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.csproj.SuggestedBindingRedirects.cache
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\MainWindow.g.cs
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\App.g.cs
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash_MarkupCompile.cache
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash_MarkupCompile.lref
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\App.baml
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\MainWindow.baml
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.g.resources
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.Properties.Resources.resources
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.csproj.GenerateResource.cache
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.csproj.CoreCompileInputs.cache
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.csproj.CopyComplete
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.exe
+D:\Matkul\Semes 6\PBKK-20223\Dasboard\obj\Debug\Dash.pdb
